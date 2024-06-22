@@ -1,0 +1,22 @@
+{
+  "name": "project-node.js-with-ts",
+  "version": "1.0.0",
+  "description": "Projeto em Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Reryson/Projeto-API---Node.js.git"
+  },
+  "author": "Reryson Colares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reryson/Projeto-API---Node.js/issues"
+  },
+  "homepage": "https://github.com/Reryson/Projeto-API---Node.js#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
