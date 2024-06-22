@@ -7,7 +7,7 @@ const app = express();
 app.get('/', function(req,res){
     return res.json({
         message: 'Olá mundo!!',
-        First: 'Primeiro valor do Json'
+        First: 'Primeiro valor do Js'
     });
 });
 
